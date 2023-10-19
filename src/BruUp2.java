@@ -16,11 +16,10 @@ public class BruUp2 {
 				System.out.println(arr1[i] + "is not a multiple of 2");
 			}
 			
-			
-			
 		}
-		
-
+		System.out.println("We are doing full training");
+		String[] arr2 = {"Waaseu", "Sameer"};
+		System.out.println(arr2[1]);
 	}
 
 }
