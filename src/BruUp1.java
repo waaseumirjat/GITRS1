@@ -23,6 +23,8 @@ public class BruUp1 {
 		for (String s:arr3){
 			System.out.println(s);
 			}
+		System.out.println("Now we doing branching training 5");
+		System.out.println("Now we doing branching training 6");
 
 	}
 	
