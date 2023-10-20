@@ -28,6 +28,8 @@ public class BruUp2 {
 		
 		System.out.println("Now we doing branching training 3");
 		System.out.println("Now we doing branching training 4");
+		System.out.println("Now we doing branching training 5");
+		System.out.println("Now we doing branching training 6");
 	}
 
 }
