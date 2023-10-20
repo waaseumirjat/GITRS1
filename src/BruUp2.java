@@ -24,6 +24,10 @@ public class BruUp2 {
 		System.out.println("we are progressing to final phase of GIT training");
 		System.out.println("Now we doing branching training 1");
 		System.out.println("Now we doing branching training 2");
+		
+		
+		System.out.println("Now we doing branching training 3");
+		System.out.println("Now we doing branching training 4");
 	}
 
 }
