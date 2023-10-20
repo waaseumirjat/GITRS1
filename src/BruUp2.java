@@ -21,6 +21,7 @@ public class BruUp2 {
 		for (String s:arr2) {
 			System.out.println(s);
 		}
+		System.out.println("we are progressing to final phase of GIT training");
 	}
 
 }
